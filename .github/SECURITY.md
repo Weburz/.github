@@ -6,7 +6,7 @@ At Weburz, we take security seriously. We appreciate your efforts to responsibly
 
 1. **Do Not Publicly Disclose**: Please do not publicly disclose the security issue until it has been addressed by our team.
 
-2. **Contact Us Privately**: Email us at [Somraj Saha](mailto:somraj.saha@weburz.com) or [Sagar Kapoor](mailto:sagar.kapoor@weburz.com with details about the vulnerability. Please provide a clear and concise description of the issue, along with any steps to reproduce it.
+2. **Contact Us Privately**: Email us at [Somraj Saha](mailto:somraj.saha@weburz.com) or [Sagar Kapoor](mailto:sagar.kapoor@weburz.com) with details about the vulnerability. Please provide a clear and concise description of the issue, along with any steps to reproduce it.
 
 3. **GPG Encryption (Optional)**: If you'd like to encrypt your communication, you can use our GPG key to encrypt your message. Our GPG public key is available on [our website](link-to-gpg-key) or on public key servers.
 
